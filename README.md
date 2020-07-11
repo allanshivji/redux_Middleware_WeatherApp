@@ -1,25 +1,15 @@
-# ReduxSimpleStarter
+# Redux Middleware Weather App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a redux middleware application where a user can enter a city name and in response the temperature, humidity and pressure will be shown on the screen.
+Also made use of browser built google-map feature which  shown a small interactive snippet of the city.
 
-### Getting Started
+`Make sure you create an account on [OpenWeather](https://openweathermap.org/forecast5) to generate your API KEY`
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+### Installation
+```sh
+npm install
+npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### Snapshot
 
-```
-> npm install
-> npm start
-```
