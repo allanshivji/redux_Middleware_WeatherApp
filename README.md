@@ -4,7 +4,7 @@ This is a redux middleware application where a user can enter a city name and in
 Also made use of browser built google-map feature which  shown a small interactive snippet of the city.
 
 ```diff
-- Make sure you create an account on [OpenWeather](https://openweathermap.org/forecast5) to generate your API KEY
+- Make sure you create an account on [OpenWeather] (https://openweathermap.org/forecast5) to generate your API KEY
 ```
 
 ### Installation
